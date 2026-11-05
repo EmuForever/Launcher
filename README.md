@@ -17,7 +17,7 @@ extract it and run **EmuForeverLauncher.exe**. The .NET runtime is included.
 
 | Client | Verified version / build |
 | --- | --- |
-| WoW Forever | 1.60.1 / 70755 |
+| WoW Forever | 1.60.1 / 70790 |
 | Burning Crusade Anniversary | 2.5.6 / 70577 |
 | Mists of Pandaria Classic | 5.5.4 / 70631 |
 | Classic Era | 1.15.9 / 70576 |
